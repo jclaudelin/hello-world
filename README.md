@@ -1,11 +1,13 @@
 # Documentation
+* point 1
+* point 2
 
 ## Second level header
 
 Here goes some text.
 
-| Col 1 | Col 2|
-----------------
+| Col 1 | Col 2 |
+|-------|---------|
 | value1 | value2 |
 
 
